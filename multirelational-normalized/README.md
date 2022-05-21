@@ -1,5 +1,5 @@
 
-## Multi-relational Taylor Series Graph Embeddings
+## Multi-relational Taylor Series Hyperbolic Model
 
 
 ### Running a model
