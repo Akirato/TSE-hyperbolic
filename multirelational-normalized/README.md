@@ -1,7 +1,7 @@
 
 ## Multi-relational Taylor Series Hyperbolic Model
 
-
+Code based on [MuRP](https://github.com/ibalazevic/multirelational-poincare)
 ### Running a model
 
 To run the model, execute the following command:
